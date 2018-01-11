@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SignupAndLoginDemo</string>
+
+    <string name="login_pin">Enter 4 digit PIN</string>
+    <string name="action_login">Login</string>
+</resources>
